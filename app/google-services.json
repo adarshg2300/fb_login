@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684429045060",
+    "project_id": "facebook-login-771ac",
+    "storage_bucket": "facebook-login-771ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684429045060:android:3a81ddb55265a9f2683b11",
+        "android_client_info": {
+          "package_name": "com.trainee.appinventiv.facebook_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684429045060-h1chjisotag5n39bdqq9g6k2si350654.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx8B9DA44SgB5DAOzMomfVXJP-OQ96XSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684429045060-h1chjisotag5n39bdqq9g6k2si350654.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
